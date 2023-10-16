@@ -1,0 +1,8 @@
+Input array length (from 1 to 10).
+Now input array members.
+Array A:
+1
+1
+Array B, where B_i = A_(i-1) + A_i + A_(i+1):
+0
+0
