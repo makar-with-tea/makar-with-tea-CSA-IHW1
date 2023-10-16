@@ -80,6 +80,7 @@ test4
 ![image](https://github.com/makar-with-tea/makar-with-tea-CSA-IHW1/assets/79705001/0566990e-aae0-4cc1-adb0-fb63cf2f12f0)
 
 Скриншоты работы тестирующей программы:
+
 ![image](https://github.com/makar-with-tea/makar-with-tea-CSA-IHW1/assets/79705001/734cbd66-ad04-4d68-97f3-e95e14a0e1ba)
 ![image](https://github.com/makar-with-tea/makar-with-tea-CSA-IHW1/assets/79705001/32d07070-64be-4f4b-9102-b7bbc4f44378)
 
