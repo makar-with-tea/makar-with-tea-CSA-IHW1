@@ -13,3 +13,14 @@
 - Допускается использование требуемых подпрограмм без параметров и локальных переменных.
 • В отчете должно быть представлено полное тестовое покрытие.
 Приведены результаты тестовых прогонов. Например, с использованием скриншотов
+## Тесты
+Ниже приведены скриншоты, показывающие корректную работу программы на тестах 1-4.
+test1
+![image](https://github.com/makar-with-tea/makar-with-tea-CSA-IHW1/assets/79705001/81fa5795-5ad6-4ff3-bcab-c4e39047c558)
+test2
+![image](https://github.com/makar-with-tea/makar-with-tea-CSA-IHW1/assets/79705001/d651f90c-35ad-48f3-942c-a83bc4639021)
+![image](https://github.com/makar-with-tea/makar-with-tea-CSA-IHW1/assets/79705001/ba6a49d5-ca5d-43a8-9023-f3bdb20031df)
+test3
+![image](https://github.com/makar-with-tea/makar-with-tea-CSA-IHW1/assets/79705001/b148c9f1-a9d2-475c-aa07-0f6b20713ff2)
+test4
+![image](https://github.com/makar-with-tea/makar-with-tea-CSA-IHW1/assets/79705001/0566990e-aae0-4cc1-adb0-fb63cf2f12f0)
